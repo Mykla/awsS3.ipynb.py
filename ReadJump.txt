@@ -1,0 +1,3 @@
+Alternatively, you can run jupyter lab inside the virtualenv with
+
+pipenv run jupyter lab
